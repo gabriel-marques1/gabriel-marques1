@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1> Olá! 👋 <h1>
 
-<!--
-**gabriel-marques1/gabriel-marques1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-costa-marques)](https://www.linkedin.com/in/gabriel-costa-marques)
+[![Gmail Badge](https://img.shields.io/badge/-contato@gabrielmarques.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:marques.dev.marques@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Meu nome é Gabriel Marques😀
+
+(C | Java | PostgreSQL)🚀
+
+   ▪️ 🧑‍💻Desenvolvedor backend
+
+   ▪️ 🎓Estudante de Ciência da Computação @[UFMA](https://portais.ufma.br/PortalUfma/)
+
+   ▪️ 💡Apaixonado por algoritmos e lógica
+
+   ▪️ ⌛Adoro um bom desafio
+
+
+![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-marques1&hide_progress=true)
+
+
+  
