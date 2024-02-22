@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-costa-marques)](https://www.linkedin.com/in/gabriel-costa-marques)
 [![Gmail Badge](https://img.shields.io/badge/-contato@gabrielmarques.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:marques.dev.marques@gmail.com)
 
+<img align="right" alt="astronauta image" src="./astronauta.jpg" width="400px"/>
+
 
 
 ## Meu nome é Gabriel Marques😀
